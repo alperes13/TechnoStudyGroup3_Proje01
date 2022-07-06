@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Alper");
         System.out.println("deneme 1");
         System.out.println();
+        System.out.println();
     }
 }
