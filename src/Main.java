@@ -11,10 +11,7 @@ public class Main {
 
         System.out.println("Cümleten selamlar");
 
-        System.out.println("ferhat 2");
 
-
-        System.out.println("deneme 1 esra");
 
     }
 
