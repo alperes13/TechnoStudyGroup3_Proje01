@@ -6,6 +6,8 @@ public class Main {
 
         System.out.println("selam, ferhat.");
 
+        System.out.println("ferhat 3");
+
 
     }
 
