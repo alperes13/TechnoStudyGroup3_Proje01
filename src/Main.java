@@ -9,7 +9,7 @@ public class Main {
 
         System.out.println("Cümleten selamlar");
 
-        System.out.println("Branch ile push deneme ");
+        System.out.println("Branch ile push denemeee ");
 
 
     }
