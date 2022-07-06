@@ -12,6 +12,10 @@ public class Main {
         System.out.println("Cümleten selamlar");
 
 
+        System.out.println("Pull Requrest deneme 1");
+
+
+        System.out.println("yeni deneme");
 
     }
 
